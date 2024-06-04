@@ -1,4 +1,4 @@
-# BlindBidding
+# Blind Bidding
 
 - In this Project I learned how to use Dictionaries and revised code nesting!
 
